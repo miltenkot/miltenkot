@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miltenkot
-- 👀 I’m interested in ios development
+- 👀 I’m interested in iOS development
 - 🌱 I’m currently learning swift
 - 💞️ I’m looking to collaborate on whole ios environment
 - 📫 How to reach me https://www.linkedin.com/in/bartlomiejlanczyk/
